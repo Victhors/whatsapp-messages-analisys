@@ -59,7 +59,7 @@ Este repositório contém a resolução da avaliação prática sobre análise d
 ### Passos:
 1. Clone o repositório.
    ```bash
-   git clone https://github.com/seu-usuario/avaliacao-pescoco-grosso.git
+   git clone https://github.com/Victhors/avaliacao-pescoco-grosso.git
    ```
 2. Restaure o dump no PostgreSQL.
    ```bash
